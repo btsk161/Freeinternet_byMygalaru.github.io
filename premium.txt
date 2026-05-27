@@ -1,4 +1,4 @@
-profile-title: Free_Internet 🏳
+#profile-title: Free_Internet 🏳
 #profile-update-interval: 24
 #support-url: https://t.me/freeinternet_byMygalaru
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
